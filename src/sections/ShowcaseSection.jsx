@@ -19,7 +19,6 @@ const ShowcaseSection = () => {
     useGSAP(() => {
 
         const projects = [project1Ref.current, project2Ref.current, project3Ref.current]
-
         projects.forEach((card, index) => {
             gsap.fromTo(card, {
                     y: 50,
