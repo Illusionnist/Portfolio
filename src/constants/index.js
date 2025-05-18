@@ -11,10 +11,7 @@ const navLinks = [
         name: "Skills",
         link: "#skills",
     },
-    {
-        name: "Testimonials",
-        link: "#testimonials",
-    },
+
 ];
 
 const words = [
@@ -92,8 +89,8 @@ const techStackImgs = [
         imgPath: "/images/logos/react.png",
     },
     {
-        name: "Python Developer",
-        imgPath: "/images/logos/python.svg",
+        name: "Next Developer",
+        imgPath: "/images/logos/Next.svg",
     },
     {
         name: "Backend Developer",

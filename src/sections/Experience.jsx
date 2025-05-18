@@ -34,7 +34,7 @@ const Experience = () => {
             scrollTrigger: {
                 trigger: '.timeline',
                 start: 'top center',
-                end: '50% center',
+                end: '70% center',
                 onUpdate: (self) => {
                     gsap.to('.timeline', {
                         scaleY: 1 - self.progress
