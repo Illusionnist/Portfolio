@@ -7,6 +7,7 @@ import FeatureCards from "./sections/FeatureCards.jsx";
 import Experience from "./sections/Experience.jsx";
 import {TechStack} from "./sections/TechStack.jsx";
 import ContactUs from "./sections/ContactUs.jsx";
+import Footer from "./sections/Footer.jsx";
 
 
 const App = () => {
@@ -15,11 +16,11 @@ const App = () => {
             <NavBar/>
             <Hero/>
             <ShowcaseSection/>
-            <LogoSection/>
             <FeatureCards/>
             <Experience/>
             <TechStack/>
             <ContactUs/>
+            <Footer/>
         </>
 
     )

@@ -89,7 +89,7 @@ const techStackImgs = [
         imgPath: "/images/logos/react.png",
     },
     {
-        name: "Next Developer",
+        name: "NextJS Developer",
         imgPath: "/images/logos/Next.svg",
     },
     {
@@ -142,9 +142,9 @@ const techStackIcons = [
 const expCards = [
     {
         review:
-            "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+            "Prashast, your hard work on WordPress performance and responsive design at the Fight Club was a technical knockout.",
         imgPath: "/images/exp1.png",
-        logoPath: "/images/logo1.png",
+        logoPath: "/images/word-logo.png",
         title: "FightClub - WordPress Developer",
         date: "04/2024 – Present",
         responsibilities: [
@@ -155,9 +155,9 @@ const expCards = [
     },
     {
         review:
-            "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+            "Prashast, your Shopify skills and collaborative redesign at BitsnBob were technically sharp and boosted user engagement.",
         imgPath: "/images/exp1.png",
-        logoPath: "/images/logo1.png",
+        logoPath: "/images/shop-logo.png",
         title: "BitsnBoB - Shopify Developer",
         date: "11/2023 - 02/2024",
         responsibilities: [
@@ -168,9 +168,9 @@ const expCards = [
     },
     {
         review:
-            "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+            "Prashast, your advanced front-end skills with React and Tailwind, combined with your collaborative spirit at Trenery, delivered impressive and dynamic results.",
         imgPath: "/images/exp1.png",
-        logoPath: "/images/logo1.png",
+        logoPath: "/images/react-logo.png",
         title: "Trenery - Full Stack Developer",
         date: "08/2022 - 06/2023",
         responsibilities: [
@@ -183,9 +183,9 @@ const expCards = [
     },
     {
         review:
-            "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+            "Prashast, your technical expertise and collaborative efforts at MIMCO, especially with UI components and API integrations, were key to a flawless user experience.",
         imgPath: "/images/exp2.png",
-        logoPath: "/images/logo2.png",
+        logoPath: "/images/react-logo.png",
         title: "MIMCO - Full Stack Developer",
         date: "04/2019 - 08/2022 ",
         responsibilities: [
@@ -198,9 +198,9 @@ const expCards = [
     },
     {
         review:
-            "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+            "Prashast, your early HTML/CSS work and diligent updates showed great technical promise and a strong work ethic.",
         imgPath: "/images/exp3.png",
-        logoPath: "/images/logo3.png",
+        logoPath: "/images/html-logo.png",
         title: "Country Road and Trenery - Junior Front End Developer",
         date: "11/2018 - 04/2019 ",
         responsibilities: [
@@ -272,23 +272,8 @@ const testimonials = [
 
 const socialImgs = [
     {
-        name: "insta",
-        url: "https://www.instagram.com/",
-        imgPath: "/images/insta.png",
-    },
-    {
-        name: "fb",
-        url: "https://www.facebook.com/",
-        imgPath: "/images/fb.png",
-    },
-    {
-        name: "x",
-        url: "https://www.x.com/",
-        imgPath: "/images/x.png",
-    },
-    {
         name: "linkedin",
-        url: "https://www.linkedin.com/",
+        url: "https://www.linkedin.com/in/prashast-gupta-705464123/",
         imgPath: "/images/linkedin.png",
     },
 ];
