@@ -170,30 +170,39 @@ const expCards = [
         review:
             "Prashast, your advanced front-end skills with React and Tailwind, combined with your collaborative spirit at Trenery, delivered impressive and dynamic results.",
         imgPath: "/images/exp1.png",
-        logoPath: "/images/react-logo.png",
-        title: "Trenery - Full Stack Developer",
+        logoPath: "/images/html-logo.png",
+        title: "Trenery - Front End Developer",
         date: "08/2022 - 06/2023",
         responsibilities: [
-            "Integrated RESTful APIs (Node.js assisted) for real-time product/stock data (LookBook Hub) from Contentful/iSams/DBs to a React/Tailwind UI.",
-            "Developed full-stack features, building responsive React/Tailwind UIs connected to backend services & content APIs.",
-            "Managed end-to-end content data flow from CMS (Contentful, iSams) via APIs to dynamic React front-end.",
-            "Conducted full-stack audits (performance, API, data) & provided multi-tier client/server technical support",
-            "Coordinated web launches & feature rollouts with cross-functional (Digital, Marketing, Tech) teams.",
+            "Built responsive pages & reusable UI components (vanilla JS, HTML, CSS) with Tailwind CSS, boosting dev efficiency & user engagement by 18%.",
+            "Delivered on-site customer support, aiding a 16% improvement in team service metric KPIs.",
+            "Managed front-end content development (vanilla JS, HTML, CSS), driving a 19% uplift in content\n" +
+            "interaction & campaign performance.",
+            "Coordinated web launches with stakeholders, hitting a 17% improvement in launch effectiveness &\n" +
+            "reach.",
+            "Performed internal website audits, enabling a 20% improvement in site performance & usability.",
+            "Integrated RESTful APIs for LookBook Hub (vanilla JS frontend), lifting featured product engagement by\n" +
+            "18%",
         ],
     },
     {
         review:
             "Prashast, your technical expertise and collaborative efforts at MIMCO, especially with UI components and API integrations, were key to a flawless user experience.",
         imgPath: "/images/exp2.png",
-        logoPath: "/images/react-logo.png",
-        title: "MIMCO - Full Stack Developer",
+        logoPath: "/images/html-logo.png",
+        title: "MIMCO - Front End Developer",
         date: "04/2019 - 08/2022 ",
         responsibilities: [
-            "Integrated e-commerce REST APIs (Fred Hopper, Klarna, iSams), using Node.js for scripts & React UI data flow.",
-            "Full-stack development of site hubs (Sustainability, Delivery/Returns) with iSams data & React UIs.",
-            "Led technical development for launch/content pages, managing iSams data-to-UI pipeline.",
-            "Developed 20-50+ reusable React UI components; improved site compliance & accessibility.",
-            "Provided tech support (iSams/API issues) & coordinated launches with Digital/Marketing.",
+            "Redesigned Sustainability & Delivery/Returns Hubs (vanilla JS, HTML, CSS), improving user navigation &\n" +
+            "task completion by 17%.",
+            "Designed product launch pages & oversaw front-end (vanilla JS, HTML, CSS) for content, achieving 19%\n" +
+            "better engagement & conversion KPIs.",
+            "Developed 20-50+ reusable UI components (vanilla JS, HTML, CSS), boosting website performance by\n" +
+            "20% & improving website compliance",
+            "Integrated RESTful APIs (Fred Hopper/Klarna) with vanilla JS frontends, aiding 16% gains in operational\n" +
+            "efficiency/sales.",
+            "Provided on-site web support, helping meet team KPIs for 15% better customer satisfaction.",
+            "Coordinated web launches with stakeholders, achieving an 18% improvement in project KPIs.",
         ],
     },
     {
