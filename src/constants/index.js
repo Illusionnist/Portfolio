@@ -168,7 +168,7 @@ const expCards = [
     },
     {
         review:
-            "Prashast, your advanced front-end skills with React and Tailwind, combined with your collaborative spirit at Trenery, delivered impressive and dynamic results.",
+            "Prashast, your advanced front-end skills, combined with your collaborative spirit at Trenery, delivered impressive and dynamic results.",
         imgPath: "/images/exp1.png",
         logoPath: "/images/html-logo.png",
         title: "Trenery - Front End Developer",
