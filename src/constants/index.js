@@ -174,9 +174,9 @@ const expCards = [
         title: "Trenery - Front End Developer",
         date: "08/2022 - 06/2023",
         responsibilities: [
-            "Built responsive pages & reusable UI components (vanilla JS, HTML, CSS) with Tailwind CSS, boosting dev efficiency & user engagement by 18%.",
+            "Built responsive pages & reusable UI components  with Tailwind CSS, boosting dev efficiency & user engagement by 18%.",
             "Delivered on-site customer support, aiding a 16% improvement in team service metric KPIs.",
-            "Managed front-end content development (vanilla JS, HTML, CSS), driving a 19% uplift in content\n" +
+            "Managed front-end content development , driving a 19% uplift in content\n" +
             "interaction & campaign performance.",
             "Coordinated web launches with stakeholders, hitting a 17% improvement in launch effectiveness &\n" +
             "reach.",
@@ -193,13 +193,13 @@ const expCards = [
         title: "MIMCO - Front End Developer",
         date: "04/2019 - 08/2022 ",
         responsibilities: [
-            "Redesigned Sustainability & Delivery/Returns Hubs (vanilla JS, HTML, CSS), improving user navigation &\n" +
+            "Redesigned Sustainability & Delivery/Returns Hubs , improving user navigation &\n" +
             "task completion by 17%.",
-            "Designed product launch pages & oversaw front-end (vanilla JS, HTML, CSS) for content, achieving 19%\n" +
+            "Designed product launch pages & oversaw front-end  for content, achieving 19%\n" +
             "better engagement & conversion KPIs.",
-            "Developed 20-50+ reusable UI components (vanilla JS, HTML, CSS), boosting website performance by\n" +
+            "Developed 20-50+ reusable UI components , boosting website performance by\n" +
             "20% & improving website compliance",
-            "Integrated RESTful APIs (Fred Hopper/Klarna) with vanilla JS frontends, aiding 16% gains in operational\n" +
+            "Integrated RESTful APIs (Fred Hopper/Klarna) with  JS frontends, aiding 16% gains in operational\n" +
             "efficiency/sales.",
             "Provided on-site web support, helping meet team KPIs for 15% better customer satisfaction.",
             "Coordinated web launches with stakeholders, achieving an 18% improvement in project KPIs.",
