@@ -148,9 +148,9 @@ const expCards = [
         title: "FightClub - WordPress Developer",
         date: "04/2024 – Present",
         responsibilities: [
-            "Developed and maintained user-facing features for the WordPress website.",
-            "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-            "Optimized website for maximum speed and scalability.",
+            "Developed and maintained the full-stack website using Next.js for the dynamic front-end and integrating with a WordPress headless CMS for content delivery.",
+            "Managed server-side interactions and data retrieval from the headless CMS, ensuring efficient data flow.",
+            "Managed SEO strategy with Yoast SEO and MonsterInsights, contributing to overall site visibility.",
         ],
     },
     {
@@ -174,15 +174,11 @@ const expCards = [
         title: "Trenery - Front End Developer",
         date: "08/2022 - 06/2023",
         responsibilities: [
-            "Built responsive pages & reusable UI components  with Tailwind CSS, boosting dev efficiency & user engagement by 18%.",
-            "Delivered on-site customer support, aiding a 16% improvement in team service metric KPIs.",
-            "Managed front-end content development , driving a 19% uplift in content\n" +
-            "interaction & campaign performance.",
-            "Coordinated web launches with stakeholders, hitting a 17% improvement in launch effectiveness &\n" +
-            "reach.",
-            "Performed internal website audits, enabling a 20% improvement in site performance & usability.",
-            "Integrated RESTful APIs for LookBook Hub (vanilla JS frontend), lifting featured product engagement by\n" +
-            "18%",
+            "Developed a reusable component library and integrated it with back-end content management systems (CMS) to dynamically render homepage and blog content.",
+            "Collaborated with cross-functional teams, including back-end developers, to define API requirements and ensure seamless data integration for timely content launches.",
+            "Contributed to CI/CD pipelines using GitHub Actions, supporting full-stack deployment processes.",
+            "Implemented unit tests with Jest and E2E tests with Cypress, ensuring both front-end and integrated system reliability.",
+            "Applied micro-architectural principles by developing independent JavaScript elements that effectively consumed data from back-end services.",
         ],
     },
     {
@@ -193,16 +189,11 @@ const expCards = [
         title: "MIMCO - Front End Developer",
         date: "04/2019 - 08/2022 ",
         responsibilities: [
-            "Redesigned Sustainability & Delivery/Returns Hubs , improving user navigation &\n" +
-            "task completion by 17%.",
-            "Designed product launch pages & oversaw front-end  for content, achieving 19%\n" +
-            "better engagement & conversion KPIs.",
-            "Developed 20-50+ reusable UI components , boosting website performance by\n" +
-            "20% & improving website compliance",
-            "Integrated RESTful APIs (Fred Hopper/Klarna) with  JS frontends, aiding 16% gains in operational\n" +
-            "efficiency/sales.",
-            "Provided on-site web support, helping meet team KPIs for 15% better customer satisfaction.",
-            "Coordinated web launches with stakeholders, achieving an 18% improvement in project KPIs.",
+            "Engineered a comprehensive, reusable React and TailwindCSS component library that seamlessly consumed data via REST APIs from back-end services across all web pages.",
+            "Led front-end development for key site initiatives, collaborating closely with back-end teams to overhaul critical sections like the Sustainability Hub and Returns & Delivery, ensuring robust data handling and functionality.",
+            "Created a new homepage template, optimizing its integration with existing back-end data structures to significantly reduce development time for content updates.",
+            "Modernized CI/CD pipelines using GitHub Actions, supporting continuous integration and delivery for full-stack features.",
+            "Implemented E2E tests with Cypress, validating end-to-end functionality including back-end data interactions.",
         ],
     },
     {

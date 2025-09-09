@@ -74,12 +74,12 @@ const ShowcaseSection = () => {
                                 <h2>AI Interview Platform</h2>
                             </div>
                         </a>
-                        <a href="https://uni-assign.netlify.app/" target={"_blank"}>
+                        <a href="https://gaming-rewards-spa.vercel.app/" target={"_blank"}>
                             <div className="project" ref={project3Ref}>
                                 <div className={'image-wrapper bg-[#ffe7eb]'}>
-                                    <img src="/images/project3.png" alt="old School restaurent site"/>
+                                    <img src="/images/project4.png" alt="Mock Game Rewards"/>
                                 </div>
-                                <h2>Mock Restaurant Site</h2>
+                                <h2>Mock Game Rewards Site</h2>
                             </div>
                         </a>
                     </div>
