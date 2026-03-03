@@ -144,7 +144,7 @@ const expCards = [
       "Prashast, your hard work on WordPress performance and responsive design at the Fight Club was a technical knockout.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/word-logo.png",
-    title: "Front-End Consultant",
+    title: "Melbourne Fight Club - Martial Arts Academy- Front-End Consultant",
     date: "04/2024 – 11/2025",
     responsibilities: [
       " System Stability: Consulted on the recovery and maintenance of a legacy WordPress platform, resolving critical PHP/CSS bugs to ensure 100% uptime for community members.",
@@ -156,7 +156,7 @@ const expCards = [
       "Prashast, your Shopify skills and collaborative redesign at BitsnBob were technically sharp and boosted user engagement.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/shop-logo.png",
-    title: "Frontend Consultant/Shopify Developer",
+    title: "BitsnBob - Frontend Consultant/Shopify Developer",
     date: "11/2023 - 02/2024",
     responsibilities: [
       "UX Transformation: Redesigned the e-commerce storefront using Liquid and custom CSS, creating a mobile-first, playful shopping journey that improved site flow and engagement.",
