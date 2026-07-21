@@ -147,8 +147,9 @@ const expCards = [
     title: "Melbourne Fight Club - Martial Arts Academy- Front-End Consultant",
     date: "04/2024 – 11/2025",
     responsibilities: [
-      " System Stability: Consulted on the recovery and maintenance of a legacy WordPress platform, resolving critical PHP/CSS bugs to ensure 100% uptime for community members.",
-      "Growth Strategy: Executed a technical SEO overhaul and integrated advanced analytics, driving a measurable increase in local search visibility and new student conversions",
+      "High-Traffic Optimization: Audited and refactored a legacy codebase for a high-traffic health and fitness community platform, rewriting critical backend services and UI components to seamlessly handle sudden traffic spikes.",
+      "SEO & Analytics: Reengineered the platform's technical SEO foundation and established a clean, data-driven analytics pipeline to track conversion funnels and user acquisition.",
+      "AI-Accelerated Delivery: Utilized advanced AI-assisted development tools (Cursor, Copilot) to rapidly audit legacy systems and prototype integrations, ensuring safety via comprehensive test coverage before production deployment",
     ],
   },
   {
@@ -159,7 +160,8 @@ const expCards = [
     title: "BitsnBob - Frontend Consultant/Shopify Developer",
     date: "11/2023 - 02/2024",
     responsibilities: [
-      "UX Transformation: Redesigned the e-commerce storefront using Liquid and custom CSS, creating a mobile-first, playful shopping journey that improved site flow and engagement.",
+      "Responsive UI Architecture: Rebuilt the core e-commerce storefront from the ground up using modern, mobile-first CSS methodologies, eliminating user friction and significantly optimizing page load velocity.",
+      "Agile Iteration: Translated abstract business requirements directly into rapid, functional prototypes and production-ready code within tight, iterative release loops.",
     ],
   },
   {
@@ -170,11 +172,10 @@ const expCards = [
     title: "Trenery - Digital Brand Lead",
     date: "08/2022 - 06/2023",
     responsibilities: [
-      "Autonomous Brand Ownership: Acted as the dedicated technical lead for Trenery. While operating within a shared group reporting structure, I held 100% responsibility for Trenery’s frontend delivery—owning the pipeline from architectural decisions to final production-ready code.",
-      "Technical Resourcefulness (CSS Grid): Engineered complex, responsive layouts using CSS Grid and vanilla CSS to navigate platform limitations. Successfully delivered modern, pixel-perfect designs without access to utility libraries like Tailwind, ensuring Trenery’s premium aesthetic was never compromised.",
-      "Workflow Integration: Implemented development methodologies proven during my time at MIMCO to streamline Trenery’s campaign cycles, focusing on modularity and reusable patterns to manage frequent site updates independently.",
-      "Strategic Collaboration: Partnered directly with the Department Head to align Trenery’s digital roadmap with group-wide objectives, while maintaining a close peer relationship with the Country Road developer to ensure technical consistency across the organization.",
-      "Cross-Brand Support: Maintained high-level platform stability by providing critical troubleshooting and bug fixes for the Country Road site during peak traffic periods, proving an ability to manage multiple brand priorities simultaneously.",
+      "Full-Stack Campaign Support: Served as the primary senior engineer driving digital operations, leveraging React, Vue, and TypeScript to deploy high-traffic checkout flows and membership sign-up systems.",
+      "Headless CMS Migration: Co-architected a hybrid headless CMS strategy, transitioning the frontend to Contentful while safely interfacing with legacy enterprise backend inventory APIs without downtime",
+      "DevOps Modernization: Successfully championed and led the migration of Trenery’s legacy code repository from local network drives to GitHub, establishing modern version control practices and automated deployment workflows.",
+      "Kanban Delivery: Managed a high-turnaround workflow via Asana, collaborating daily with marketing and e-commerce managers to turn briefs into live landing pages within 24 hours.",
     ],
   },
   {
@@ -185,12 +186,13 @@ const expCards = [
     title: "MIMCO - Lead Front End Developer",
     date: "04/2019 - 08/2022 ",
     responsibilities: [
-      "Sole Frontend Ownership: Directly responsible for the end-to-end frontend architecture of the MIMCO platform. I transformed complex wireframes into high-performance, interactive interfaces while serving as the technical liaison for the Design and Marketing teams.",
-      "Accessibility & Inclusion: Championed and implemented WCAG accessibility standards across the site, ensuring that the digital experience was inclusive for all users, including those utilizing screen readers or keyboard navigation.",
-      "Responsive Excellence: Engineered fluid, responsive layouts for all new page builds, ensuring a mobile-first experience that maintained brand integrity across all devices and screen sizes.",
-      "Architectural Initiative: Pioneered the standardization of homepage design templates. This strategic shift reduced manual coding for seasonal campaigns, allowing the creative team to launch new content with greater speed and autonomy.",
-      "Major Platform Overhauls: Spearheaded the development of the Sustainability Hub and Returns & Delivery Hub, focusing on intuitive navigation to improve the post-purchase customer experience.",
-      "Cross-Functional Collaboration: Actively supported developers across the broader Country Road Group, stepping in to assist other brand squads during peak workloads to ensure group-wide deadlines were met",
+      "E-Commerce Engineering: Maintained and optimized the enterprise Magento storefront, customizing core functionalities and theme architectures to support large-scale retail operations.",
+      "Component Architecture: Engineered a modular, reusable UI component library using React and modern CSS integrated with the Magento frontend ecosystem, accelerating campaign launch times across the wider organization.",
+      "Data Integrity & Scale: Managed complex, local-to-cloud database synchronizations to ensure digital web storefront inventory on Magento aligned precisely with physical warehouse stock during peak nationwide sales events",
+      "Accessibility & Compliance: Conducted a comprehensive audit of site navigation and checkout flows, implementing structural changes to achieve strict WCAG compliance for screen readers and keyboard accessibility.",
+      "CI/CD & Testing: Standardized testing protocols by implementing unit tests via React Testing Library and constructing automated CI/CD deployment pipelines using GitHub Actions.",
+      "Data & API Migration: Led the progressive migration of the frontend away from legacy monolithic views toward a modern headless stack, safely decoupling frontend components from the Magento backend without causing user downtime.
+",
     ],
   },
   {
@@ -201,10 +203,8 @@ const expCards = [
     title: "Country Road and Trenery - Front End Developer",
     date: "11/2018 - 04/2019 ",
     responsibilities: [
-      "Digital Content Delivery: Played a key role in the daily maintenance of the Country Road and Trenery homepages, ensuring that campaign banners, promotional links, and blog content were updated accurately and deployed on schedule.",
-      "Inventory & Catalog Management: Managed the end-to-end product lifecycle within the CMS—from adding new listings and editing descriptions to performing stock audits—ensuring the digital storefront accurately reflected physical inventory.",
-      "User Experience Support: Developed responsive landing pages and blog layouts, focusing on high-quality visuals and seamless cross-device performance to support brand marketing initiatives.",
-      "Technical SEO: Improved site discoverability by optimizing metadata and site structure for new product launches and editorial content.",
+      "Campaign Delivery: Maintained the in-house digital build system, collaborating closely with design and marketing teams to deploy high-visibility campaign pages to a massive national audience.",
+      "Database Management: Administered complex relational SQL databases to ensure accurate real-time inventory tracking between digital storefronts and physical distribution centers.",
     ],
   },
 ];
