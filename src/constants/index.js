@@ -144,7 +144,7 @@ const expCards = [
       "Prashast, your hard work on WordPress performance and responsive design at the Fight Club was a technical knockout.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/word-logo.png",
-    title: "Melbourne Fight Club - Martial Arts Academy- Front-End Consultant",
+    title: "Melbourne Fight Club - Martial Arts Academy- Senior Software Engineer (Contractor)",
     date: "04/2024 – 11/2025",
     responsibilities: [
       "High-Traffic Optimization: Audited and refactored a legacy codebase for a high-traffic health and fitness community platform, rewriting critical backend services and UI components to seamlessly handle sudden traffic spikes.",
@@ -157,7 +157,7 @@ const expCards = [
       "Prashast, your Shopify skills and collaborative redesign at BitsnBob were technically sharp and boosted user engagement.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/shop-logo.png",
-    title: "BitsnBob - Frontend Consultant/Shopify Developer",
+    title: "BitsnBob - Full-Stack Engineer (Contractor)",
     date: "11/2023 - 02/2024",
     responsibilities: [
       "Responsive UI Architecture: Rebuilt the core e-commerce storefront from the ground up using modern, mobile-first CSS methodologies, eliminating user friction and significantly optimizing page load velocity.",
@@ -169,7 +169,7 @@ const expCards = [
       "Prashast, your advanced front-end skills, combined with your collaborative spirit at Trenery, delivered impressive and dynamic results.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/html-logo.png",
-    title: "Trenery - Digital Brand Lead",
+    title: "Trenery - Senior Software Engineer",
     date: "08/2022 - 06/2023",
     responsibilities: [
       "Full-Stack Campaign Support: Served as the primary senior engineer driving digital operations, leveraging React, Vue, and TypeScript to deploy high-traffic checkout flows and membership sign-up systems.",
@@ -183,7 +183,7 @@ const expCards = [
       "Prashast, your technical expertise and collaborative efforts at MIMCO, especially with UI components and API integrations, were key to a flawless user experience.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/html-logo.png",
-    title: "MIMCO - Lead Front End Developer",
+    title: "MIMCO - Senior Front-End Developer",
     date: "04/2019 - 08/2022 ",
     responsibilities: [
       "E-Commerce Engineering: Maintained and optimized the enterprise Magento storefront, customizing core functionalities and theme architectures to support large-scale retail operations.",
@@ -200,7 +200,7 @@ const expCards = [
       "Prashast, your early HTML/CSS work and diligent updates showed great technical promise and a strong work ethic.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/html-logo.png",
-    title: "Country Road and Trenery - Front End Developer",
+    title: "Country Road and Trenery - Software Developer",
     date: "11/2018 - 04/2019 ",
     responsibilities: [
       "Campaign Delivery: Maintained the in-house digital build system, collaborating closely with design and marketing teams to deploy high-visibility campaign pages to a massive national audience.",
