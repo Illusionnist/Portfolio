@@ -191,8 +191,7 @@ const expCards = [
       "Data Integrity & Scale: Managed complex, local-to-cloud database synchronizations to ensure digital web storefront inventory on Magento aligned precisely with physical warehouse stock during peak nationwide sales events",
       "Accessibility & Compliance: Conducted a comprehensive audit of site navigation and checkout flows, implementing structural changes to achieve strict WCAG compliance for screen readers and keyboard accessibility.",
       "CI/CD & Testing: Standardized testing protocols by implementing unit tests via React Testing Library and constructing automated CI/CD deployment pipelines using GitHub Actions.",
-      "Data & API Migration: Led the progressive migration of the frontend away from legacy monolithic views toward a modern headless stack, safely decoupling frontend components from the Magento backend without causing user downtime.
-",
+      "Data & API Migration: Led the progressive migration of the frontend away from legacy monolithic views toward a modern headless stack, safely decoupling frontend components from the Magento backend without causing user downtime.",
     ],
   },
   {
