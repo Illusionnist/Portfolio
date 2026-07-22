@@ -186,7 +186,6 @@ const expCards = [
     title: "MIMCO - Senior Front-End Developer",
     date: "04/2019 - 08/2022 ",
     responsibilities: [
-      "E-Commerce Engineering: Maintained and optimized the enterprise Magento storefront, customizing core functionalities and theme architectures to support large-scale retail operations.",
       "Component Architecture: Engineered a modular, reusable UI component library using React and modern CSS integrated with the Magento frontend ecosystem, accelerating campaign launch times across the wider organization.",
       "Data Integrity & Scale: Managed complex, local-to-cloud database synchronizations to ensure digital web storefront inventory on Magento aligned precisely with physical warehouse stock during peak nationwide sales events",
       "Accessibility & Compliance: Conducted a comprehensive audit of site navigation and checkout flows, implementing structural changes to achieve strict WCAG compliance for screen readers and keyboard accessibility.",
